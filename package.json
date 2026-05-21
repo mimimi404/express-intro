@@ -1,7 +1,7 @@
 {
   "name": "codespaces-blank",
   "version": "1.0.0",
-  "description": "",
+  "description": "課題としても提出します",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
